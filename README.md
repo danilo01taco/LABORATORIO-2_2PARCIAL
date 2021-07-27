@@ -18,6 +18,12 @@ _Interpretar el funcionamiento y aplicaciones en los circuitos eléctricos la te
 
 ***Objetivos específicos***
 
+_Explicar el teorema de Thévenin mediante el desarrollo del laboratorio._
+
+_Interpretar  el funcionamiento de Thévenin y como influye en las fuentes de voltaje._
+
+_Analizar las formulas propuestas para encontrar los valores de Rth y Vth._
+
 ## 2.Marco Teorico
 
 ![image](https://user-images.githubusercontent.com/85728185/127186399-423d5541-0154-4d94-9713-823552292c78.png)
