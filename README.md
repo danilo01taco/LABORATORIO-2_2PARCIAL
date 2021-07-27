@@ -20,7 +20,7 @@
 
 _5.5.1. Arme el circuito que se muestra en la figura 5.1._
 
-![image](https://user-images.githubusercontent.com/85259801/127081811-384634ea-080e-4307-a93b-322ab43ca0a8.png)
+![image](https://user-images.githubusercontent.com/85259801/127082027-53f91d0b-3cfa-4332-83fc-3e1694f2852d.png)
 
 _5.5.2. Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 5.2._
 
