@@ -57,7 +57,8 @@ _Abriendo el circuito para obtener RTH_
 _Realizando análisis de mallas al circuito._
 
 ![image](https://user-images.githubusercontent.com/84418933/127096531-7e395e44-e0ec-4db8-aa15-9a5ff939a957.png)
-_En la Malla 3 tenemos que I3=0, por lo tanto, no hay corriente en R4 _
+
+_En la Malla 3 tenemos que I3=0, por lo tanto, no hay corriente en R4_
 
 ![image](https://user-images.githubusercontent.com/84418933/127096559-f775fc5d-5948-4063-820e-4a1c5c465040.png)
 
