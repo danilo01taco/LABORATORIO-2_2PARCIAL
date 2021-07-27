@@ -48,6 +48,50 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2._
 
 ## PLANTEAMIENTO DE ECUACIONES
 
+_Abriendo el circuito para obtener RTH_
+
+![image](https://user-images.githubusercontent.com/84418933/127096456-d63f1a3d-8334-44ef-b05f-bf0880a8de28.png)
+
+![image](https://user-images.githubusercontent.com/84418933/127096485-c68eb283-9a1c-44ca-b286-9450d8ac36bf.png)
+
+_Realizando análisis de mallas al circuito._
+
+![image](https://user-images.githubusercontent.com/84418933/127096531-7e395e44-e0ec-4db8-aa15-9a5ff939a957.png)
+_En la Malla 3 tenemos que I3=0, por lo tanto, no hay corriente en R4 _
+
+![image](https://user-images.githubusercontent.com/84418933/127096559-f775fc5d-5948-4063-820e-4a1c5c465040.png)
+
+_*Para la Malla 1 se tiene:_
+
+![image](https://user-images.githubusercontent.com/84418933/127096587-1c9ed4a8-89e0-454f-a2ba-e5aadf86cda7.png)
+
+_*Para la Malla 2 tenemos:_
+
+![image](https://user-images.githubusercontent.com/84418933/127096619-3301ad37-b809-4b40-b863-e981581e923a.png)
+
+_*Obteniendo el siguiente sistema de ecuaciones_
+
+![image](https://user-images.githubusercontent.com/84418933/127096650-0f91f601-fff1-46f0-9951-18f222c38c94.png)
+
+_*Resolviendo el sistema de ecuaciones_
+
+![image](https://user-images.githubusercontent.com/84418933/127096688-9008855b-e843-449a-8d8b-661a84da7f08.png)
+
+_*Remplazando I2 en Ec2_
+
+![image](https://user-images.githubusercontent.com/84418933/127096720-648218b1-e691-49fa-bd32-d9ad42bb2f21.png)
+
+_*Para calcular VTH_
+
+![image](https://user-images.githubusercontent.com/84418933/127096768-35fd4590-6618-4fc5-90e5-7db4090f4d93.png)
+
+_*Una vez calculado RTH y VTH tenemos el siguiente circuito equivalente_
+
+![image](https://user-images.githubusercontent.com/84418933/127096799-8b5d8034-a515-4326-8436-55de10c74197.png)
+
+![image](https://user-images.githubusercontent.com/84418933/127096824-9333f235-6aea-4f12-809c-a83ee07b2710.png)
+
+
 ### 4. Resultados
 
 ***Calculo de error***
