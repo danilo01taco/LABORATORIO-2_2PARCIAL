@@ -147,6 +147,8 @@ _*Circuito de Thévenin_
 
 ## Video
 
+_https://youtu.be/9zS-zeN3N4A_
+
 ## Conclusiones
 
 ## Bibliografia
