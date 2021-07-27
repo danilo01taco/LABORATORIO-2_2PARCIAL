@@ -20,7 +20,7 @@
 
 ## PLANTEAMIENTO DE ECUACIONES
 
-### 4. Resuls 
+### 4. Resultados
 
 ***Calculo de error***
 
