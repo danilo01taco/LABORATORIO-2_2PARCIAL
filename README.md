@@ -111,6 +111,25 @@ _Tabla 5.2. Comprobación del Teorema de Thévenin._
 
 ***Calculo de error***
 
+![image](https://user-images.githubusercontent.com/84418933/127186751-49c5f754-2b67-4ee6-b186-81e012c9dfd7.png)
+
+_Tabla 5.1. Valores del Circuito Equivalente de Thévenin._
+
+_*VTH_
+![image](https://user-images.githubusercontent.com/84418933/127186865-e69eea65-361f-4624-9fe0-485ea2e6f77f.png)
+
+_*RTH_
+![image](https://user-images.githubusercontent.com/84418933/127186930-c68af2bb-e047-46da-9fe5-31a6ec533240.png)
+
+
+_Tabla 5.2. Comprobación del Teorema de Thévenin._
+
+_*Circuito Original_
+![image](https://user-images.githubusercontent.com/84418933/127187049-b480b5cd-e4e9-41f1-8c19-e8a80ad86e95.png)
+
+_*Circuito de Thévenin_
+![image](https://user-images.githubusercontent.com/84418933/127187089-6384b5d1-4b9a-46a4-9b36-dd0159662d11.png)
+
 ## Video
 
 ## Conclusiones
