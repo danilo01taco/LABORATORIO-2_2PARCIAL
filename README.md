@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/85728185/127173356-9a38e813-46cb-48a0-9206-c37781ebebb5.png)
+
 # TEOREMA DE THÉVENIN
 #
 
