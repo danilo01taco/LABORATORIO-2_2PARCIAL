@@ -19,7 +19,7 @@
 
 ## 3.Explicación
 
-***3.1 Material y equipo requie***
+***3.1 Material y equipo requerido***
 
 ![image](https://user-images.githubusercontent.com/85728185/127175300-c92107ef-07e6-44de-93f8-1872ec39f245.png)
 
