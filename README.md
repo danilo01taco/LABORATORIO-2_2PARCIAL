@@ -151,6 +151,13 @@ _https://youtu.be/9zS-zeN3N4A_
 
 ## Conclusiones
 
+_Similar al teorema de superposición, el teorema de Thévenin nos ayuda a simplificar un circuito complejo serie paralelo a un circuito mas simple con una resistencia equivalente y con una fuente de voltaje tambien equivalente._
+
+_Como sabemos para poder determinar el circuito de Thévenin obtenemos una resistencia equivalente para analizar el circuito._
+
+_Con lo que podemos calcular eliminando las fuentes del circuito con la finalidad de analizar el voltaje y resistencia de carga en el circuito de Thévenin_
+
+
 ## Bibliografia
 
 _Robinns, A. (2008). Analisis de Circuitos - Teoria y practica. Mexico: CENGAGE LEARNING._
