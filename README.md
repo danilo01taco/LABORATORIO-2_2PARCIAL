@@ -98,6 +98,8 @@ _*Una vez calculado RTH y VTH tenemos el siguiente circuito equivalente_
 
 _Tabla 5.1. Valores del Circuito Equivalente de Thévenin_
 
+![image](https://user-images.githubusercontent.com/85259801/127175977-1bc51a5f-57d2-491f-84f3-12e12174e1d3.png)
+
 _Tabla 5.2. Comprobación del Teorema de Thévenin._
 
 ### 4. Resultados
