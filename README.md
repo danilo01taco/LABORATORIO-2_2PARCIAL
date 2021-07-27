@@ -19,6 +19,8 @@
 
 ![image](https://user-images.githubusercontent.com/85728185/127186399-423d5541-0154-4d94-9713-823552292c78.png)
 
+![image](https://user-images.githubusercontent.com/85728185/127190667-b39c9025-97d0-44fa-9532-f166f6ae5ca1.png)
+
 ## 3.Explicación
 
 ***3.1 Material y equipo requerido***
