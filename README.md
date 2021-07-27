@@ -1,18 +1,21 @@
-# LABORATORIO#2_2PARCIAL
+# TEOREMA DE THÉVENIN
+#
 
 ### Fundamentos de Circuitos Eléctricos
 ### Ingeniero Darwin Alulema  Flores
-
+#
 ### Integrantes: Erick Maisincho, Danilo Taco, David Vasquez
 
-### 1.Objetivos
+#
+ 
+## 1.Objetivos
 ***Objetivos general de la práctica***
 
 ***Objetivos específicos***
 
-### 2.Marco Teorico
+## 2.Marco Teorico
 
-### 3.Explicación
+## 3.Explicación
 
 ***3.1 Material y equipo requie***
 
@@ -49,8 +52,8 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2._
 
 ***Calculo de error***
 
-### Video
+## Video
 
-#### Conclusiones
+## Conclusiones
 
-### Bibliografia
+## Bibliografia
