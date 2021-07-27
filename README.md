@@ -13,6 +13,8 @@
 ## 1.Objetivos
 ***Objetivos general de la práctica***
 
+_ Interpretar el funcionamiento y aplicaciones en los circuitos electricos la teoria de Thévenin , mediante la indagación y comprensión de su concepto y aplicación en la resolución de circuitos electricos con las bases y formulas ya planteadas para el desarrollo del laboratorio planteado, para asi tener total conocimiento sobre cuando y como se aplica su teorema dentro de los circuitos electricos, reforzando asi los conocimientos basicos y previos para un buen entendimiento de dicho teorema._
+
 ***Objetivos específicos***
 
 ## 2.Marco Teorico
