@@ -141,3 +141,9 @@ _*Circuito de Thévenin_
 ## Conclusiones
 
 ## Bibliografia
+
+_Robinns, A. (2008). Analisis de Circuitos - Teoria y practica. Mexico: CENGAGE LEARNING._
+
+_Sirprend, J. (16 de 02 de 216). scribd. Obtenido de scribd: https://es.scribd.com/document/317562894/Leon-Charles-Thevenin_
+
+_Sterch, M. (13 de 10 de 2017). areatecnologia. Obtenido de areatecnologia: https://www.areatecnologia.com/electricidad/teorema-de-thevenin-y-norton.html_
