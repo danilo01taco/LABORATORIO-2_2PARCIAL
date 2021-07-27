@@ -102,6 +102,9 @@ _Tabla 5.1. Valores del Circuito Equivalente de Thévenin_
 
 _Tabla 5.2. Comprobación del Teorema de Thévenin._
 
+![image](https://user-images.githubusercontent.com/85259801/127178056-686cc22a-836d-4b09-9e1b-ca86dc15de5f.png)
+
+
 ### 4. Resultados
 
 ***Calculo de error***
